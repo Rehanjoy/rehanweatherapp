@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #2f99c6;
+  }
+  
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .top {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .btn-primary{
+    text-align: center;
+  }
+.img{
+  margin-left: 100px;
+}
+  
+.fw-normal{
+  margin-left: 70px;
+}
+.text-muted{
+  margin-left: 100px;
+}
